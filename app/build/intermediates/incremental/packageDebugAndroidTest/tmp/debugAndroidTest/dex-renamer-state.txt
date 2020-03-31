@@ -1,0 +1,4 @@
+#Tue Mar 31 11:11:01 EDT 2020
+base.0=/Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+path.0=classes.dex
+renamed.0=classes.dex
