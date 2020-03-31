@@ -32,12 +32,10 @@ package com.raywenderlich.android.emojicalculator
 
 import androidx.test.core.app.ActivityScenario
 import androidx.test.espresso.Espresso.onView
-import androidx.test.espresso.action.ViewActions.click
-import androidx.test.espresso.action.ViewActions.typeText
 import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import org.hamcrest.CoreMatchers.allOf
+import com.raywenderlich.android.emojicalculator.ScreenRobot.Companion.withRobot
 import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -64,37 +62,47 @@ class MainActivityTest {
 
   @Test
   fun whenOkayButtonIsPressedAndAmountIsEmptyTipIsEmpty() {
-    onView(withId(R.id.buttonOkay))
-        .perform(click())
-
-    onView(allOf(withId(R.id.textTip), withText("")))
-        .check(matches(isDisplayed()))
+    withRobot(CalculatorScreenRobot::class.java)
+            .inputCheckAmountAndSelectOkayButton("")
+            .verifyTipIsCorrect("")
   }
 
   @Test
   fun whenOkayButtonIsPressedAndAmountIsFilledTipIsSet() {
-    onView(withId(R.id.inputAmount)).perform(typeText("11"))
-
-    onView(withId(R.id.buttonOkay))
-            .perform(click())
-
-    onView(withId(R.id.textTip)).check(matches(withText("1.98")))
-    onView(withId(R.id.textPercent)).check(matches(withText("18.00%")))
-    onView(withId(R.id.textTotal)).check(matches(withText("12.98")))
+    withRobot(CalculatorScreenRobot::class.java)
+            .inputCheckAmountAndSelectOkayButton("11")
+            .verifyPercentIsCorrect("18.00%")
+            .verifyTipIsCorrect("1.98")
+            .verifyTotalIsCorrect("12.98")
   }
 
   @Test
   fun whenOkayButtonIsPressedAndRoundSwitchIsSelectedAmountIsCorrect() {
-    onView(withId(R.id.inputAmount)).perform(typeText("11"))
+    withRobot(CalculatorScreenRobot::class.java)
+            .clickOkOnView(R.id.switchRound)
+            .inputCheckAmountAndSelectOkayButton("11")
+            .verifyPercentIsCorrect("18.18%")
+            .verifyTipIsCorrect("2.00")
+            .verifyTotalIsCorrect("13.00")
+  }
 
-    onView(withId(R.id.switchRound))
-            .perform(click())
+  class CalculatorScreenRobot : ScreenRobot<CalculatorScreenRobot>() {
+    fun verifyTipIsCorrect(tip: String): CalculatorScreenRobot {
+      return checkViewHasText(R.id.textTip, tip)
+    }
 
-    onView(withId(R.id.buttonOkay))
-            .perform(click())
+    fun verifyTotalIsCorrect(total: String): CalculatorScreenRobot {
+      return checkViewHasText(R.id.textTotal, total)
+    }
 
-    onView(withId(R.id.textTip)).check(matches(withText("2.00")))
-    onView(withId(R.id.textPercent)).check(matches(withText("18.18%")))
-    onView(withId(R.id.textTotal)).check(matches(withText("13.00")))
+    fun verifyPercentIsCorrect(total: String): CalculatorScreenRobot {
+      return checkViewHasText(R.id.textPercent, total)
+    }
+
+    fun inputCheckAmountAndSelectOkayButton(input: String):
+            CalculatorScreenRobot {
+      return enterTextIntoView(R.id.inputAmount, input)
+              .clickOkOnView(R.id.buttonOkay)
+    }
   }
 }

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 31 11:11:01 EDT 2020
+#Tue Mar 31 11:28:36 EDT 2020
 0.baseType=DIRECTORY
 0.base=/Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
 0.path=classes.dex
