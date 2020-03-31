@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/2145605188338d40b12bc2dd18cf164b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8a4cdf08de4608532246614511aa1751/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/1885ae4a87092b8c4c677bfa4be6c8d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/95e0b353033ba125f27b7d844cf43812/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1919ea3bc6df2e67147357cd716b7166/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a1bd9c26451695d4d67b765732a9c08c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e8af12277e760c96726dd519e2981654/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f1058f20705fc6ad4d10ff8e047d02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/4934962cc4f0815c8a12ffa1827ec0fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/54e97fd24a71e22ad508ab4327c3ffb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/65477b070039087e7f791a0728eb2db5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1b90d7c883ff955996e98a83279afa6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c83c0a28f8b81fa2e0e69bb66468f63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/47bc4bb028cf275c4ba183c540031f2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/599f67ec4e9c945a5e8a5d66d3900fa7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b00aeb4f93a0f453c7c3779ad390062d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1540e265f7636d538c086e388de71df7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aa7c49cafc2ca0310914386682a1ef4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/05e07d783431530bacafd98415c2bffd/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4ffe5e5d62ef94bb9f0cf8b140f3e5e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/03a89bb0578badc1cb9f8c5fa6e83e2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59bc50aaecb4ac39c726b93122568816/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e2002ac49075a74d29e8c93ddc22bda6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/23cad004f752123efa7d4fcca269bae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c8c12d5c3016472a4e2cdbcf089f648e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cd589422b363b2cf55003246f7b0ecef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bfbd8da09c65e061d4e5e0e888d25a3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f4fa4498a6e93f4cb61477a391602095/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20508057da15b0340c619b0b503672b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9eb12dcc18ca11905cdfbe683a94287a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:11-62
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:5:3-24:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/2145605188338d40b12bc2dd18cf164b/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/2145605188338d40b12bc2dd18cf164b/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8a4cdf08de4608532246614511aa1751/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8a4cdf08de4608532246614511aa1751/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/05e07d783431530bacafd98415c2bffd/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/05e07d783431530bacafd98415c2bffd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.raywenderlich.android.emojicalculator.SplashActivity
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:14:15-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.emojicalculator.MainActivity
+ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml:23:15-84
+uses-sdk
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/2145605188338d40b12bc2dd18cf164b/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/2145605188338d40b12bc2dd18cf164b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8a4cdf08de4608532246614511aa1751/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/8a4cdf08de4608532246614511aa1751/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/1885ae4a87092b8c4c677bfa4be6c8d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/1885ae4a87092b8c4c677bfa4be6c8d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/95e0b353033ba125f27b7d844cf43812/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/95e0b353033ba125f27b7d844cf43812/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1919ea3bc6df2e67147357cd716b7166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1919ea3bc6df2e67147357cd716b7166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a1bd9c26451695d4d67b765732a9c08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a1bd9c26451695d4d67b765732a9c08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e8af12277e760c96726dd519e2981654/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/e8af12277e760c96726dd519e2981654/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f1058f20705fc6ad4d10ff8e047d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f1058f20705fc6ad4d10ff8e047d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/4934962cc4f0815c8a12ffa1827ec0fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/4934962cc4f0815c8a12ffa1827ec0fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/54e97fd24a71e22ad508ab4327c3ffb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/54e97fd24a71e22ad508ab4327c3ffb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/65477b070039087e7f791a0728eb2db5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/65477b070039087e7f791a0728eb2db5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1b90d7c883ff955996e98a83279afa6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1b90d7c883ff955996e98a83279afa6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c83c0a28f8b81fa2e0e69bb66468f63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c83c0a28f8b81fa2e0e69bb66468f63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/47bc4bb028cf275c4ba183c540031f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/47bc4bb028cf275c4ba183c540031f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/599f67ec4e9c945a5e8a5d66d3900fa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/599f67ec4e9c945a5e8a5d66d3900fa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b00aeb4f93a0f453c7c3779ad390062d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b00aeb4f93a0f453c7c3779ad390062d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1540e265f7636d538c086e388de71df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1540e265f7636d538c086e388de71df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aa7c49cafc2ca0310914386682a1ef4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aa7c49cafc2ca0310914386682a1ef4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/72197e74b91f2e15e3f302dcd21e3dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/05e07d783431530bacafd98415c2bffd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/05e07d783431530bacafd98415c2bffd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4ffe5e5d62ef94bb9f0cf8b140f3e5e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4ffe5e5d62ef94bb9f0cf8b140f3e5e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/03a89bb0578badc1cb9f8c5fa6e83e2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/03a89bb0578badc1cb9f8c5fa6e83e2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59bc50aaecb4ac39c726b93122568816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59bc50aaecb4ac39c726b93122568816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e2002ac49075a74d29e8c93ddc22bda6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e2002ac49075a74d29e8c93ddc22bda6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/23cad004f752123efa7d4fcca269bae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/23cad004f752123efa7d4fcca269bae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c8c12d5c3016472a4e2cdbcf089f648e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c8c12d5c3016472a4e2cdbcf089f648e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cd589422b363b2cf55003246f7b0ecef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cd589422b363b2cf55003246f7b0ecef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bfbd8da09c65e061d4e5e0e888d25a3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bfbd8da09c65e061d4e5e0e888d25a3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f4fa4498a6e93f4cb61477a391602095/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f4fa4498a6e93f4cb61477a391602095/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20508057da15b0340c619b0b503672b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20508057da15b0340c619b0b503672b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9eb12dcc18ca11905cdfbe683a94287a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srgarcia/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9eb12dcc18ca11905cdfbe683a94287a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srgarcia/Downloads/Emoji Calculator Project Files/final/app/src/main/AndroidManifest.xml
